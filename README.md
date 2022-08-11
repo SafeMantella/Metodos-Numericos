@@ -3,9 +3,6 @@
 
 Repositório com códigos da disciplina
 
-
-
-
 ## Contribuindo
 
 Para fazer sua contribuição, peço que siga as seguintes regras:
@@ -18,5 +15,4 @@ Para fazer sua contribuição, peço que siga as seguintes regras:
     ~~~python
     import numpy as np # pip install numpy
     ~~~
-* Para um passo a passo, cheque o tutorial:
-<iframe src="https://scribehow.com/embed/Github_Workflow__WfOk06EpSS6P5wFPKiP0aA" width="640" height="640" allowfullscreen frameborder="0"></iframe>
+* Para um passo a passo, cheque o tutorial: https://scribehow.com/embed/Github_Workflow__WfOk06EpSS6P5wFPKiP0aA
